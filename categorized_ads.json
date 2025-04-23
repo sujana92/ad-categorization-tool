@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Big Sale on Flight Tickets",
+        "description": "Book your vacation now!",
+        "keywords": [
+            "travel"
+        ],
+        "categories": [
+            "Travel",
+            "Retail"
+        ]
+    },
+    {
+        "title": "Secure Your Future",
+        "description": "Get the best insurance plan.",
+        "keywords": [
+            "finance"
+        ],
+        "categories": [
+            "Finance"
+        ]
+    },
+    {
+        "title": "Try our new spicy dishes!",
+        "description": "Home delivery available",
+        "keywords": [
+            "food"
+        ],
+        "categories": [
+            "Food"
+        ]
+    }
+]
